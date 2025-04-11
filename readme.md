@@ -49,7 +49,7 @@ This is a simple chatbot application built with Streamlit and the Hugging Face I
 Run the Streamlit app:
 streamlit run app.py
 
-Open the app in your browser at: http://localhost:8501
+Open the app in your browser (localhost)
 
 Use the sidebar to:
 
