@@ -59,7 +59,9 @@ Use the sidebar to:
 
 ## 📁 Project Structure
 
+```
 chatbot-streamlit/  
 ├── app.py # Main Streamlit file (UI + chatbot logic)  
 ├── requirements.txt # List of Python dependencies  
 └── .gitignore # Files and folders ignored by Git
+```
