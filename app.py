@@ -45,7 +45,7 @@ st.sidebar.title("Settings")
 model_name = st.sidebar.selectbox(
     "Choose a Model",
     [
-        "meta-llama/Meta-Llama-3-8B-Instruct",
+        "meta-llama/Llama-3.1-8B-Instruct",
         "mistralai/Mistral-7B-Instruct-v0.3",
         "HuggingFaceH4/zephyr-7b-beta",
         "microsoft/Phi-3.5-mini-instruct",
